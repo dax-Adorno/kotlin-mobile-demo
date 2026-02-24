@@ -68,4 +68,65 @@ El objetivo principal es **simplificar conceptos fiscales** y brindar una herram
 
 ---
 
+<<<<<<< HEAD
 ## 📂 Estructura del proyecto
+=======
+## 🧭 Flujo de la aplicación
+
+### 🔐 Registro de usuario
+![Registro](assets/gifts/crear_cuenta_completo.gif)
+
+### 🔑 Inicio de sesión
+![Login](assets/gifts/inicio_sesion.gif)
+
+### 🧮 Cálculo de impuestos
+![Cálculo](assets/gifts/calcular_impuestos.gif)
+
+### 📜 Historial de cálculos
+![Historial](assets/gifts/historial_calculo.gif)
+
+### 📅 Vencimientos y glosario
+![Vencimientos](assets/gifts/vencimientos_glosario.gif)
+---
+
+## 🧱 Arquitectura
+
+- **MVVM**
+- Separación por capas
+- Modelos de red desacoplados
+- Manejo claro de estado en UI
+
+---
+
+## 🛠 Stack técnico
+
+- Kotlin
+- Jetpack Compose
+- Retrofit
+- MVVM
+- Material Design 3
+- Gradle (KTS)
+
+---
+
+## ▶️ Ejecución local
+
+1. Clonar el repositorio
+2. Abrir en Android Studio
+3. Sync Gradle
+4. Ejecutar en emulador o dispositivo físico
+
+---
+
+## 🔌 Backend
+
+> Actualmente el proyecto incluye **solo el frontend mobile**.  
+> El backend será integrado en una fase posterior.
+
+---
+
+## 👨‍💻 Autor
+
+**Eduardo Dax Adorno**  
+Desarrollador Mobile & Web  
+>>>>>>> ed200acb64bfb3c8ebc1d5a857a3609713c586c0
