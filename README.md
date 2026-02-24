@@ -22,18 +22,20 @@ Aplicación Android desarrollada con **Kotlin + Jetpack Compose**, orientada a l
 
 ## 🧭 Flujo de la aplicación
 
-### 🔐 Autenticación
-![Crear cuenta](assets/gifts/crear_cuenta_completo.gif)
+### 🔐 Registro de usuario
+![Registro](assets/gifts/crear_cuenta_completo.gif)
+
+### 🔑 Inicio de sesión
+![Login](assets/gifts/inicio_sesion.gif)
 
 ### 🧮 Cálculo de impuestos
-![Calcular impuestos](assets/gifts/calcular_impuestos.gif)
+![Cálculo](assets/gifts/calcular_impuestos.gif)
 
-### 📊 Historial
+### 📜 Historial de cálculos
 ![Historial](assets/gifts/historial_calculo.gif)
 
 ### 📅 Vencimientos y glosario
 ![Vencimientos](assets/gifts/vencimientos_glosario.gif)
-
 ---
 
 ## 🧱 Arquitectura
